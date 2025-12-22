@@ -25,4 +25,4 @@ the gadget chosen to save the return value cannot be used to execute functions w
 
 * [namazso](https://x.com/namazso): stack unwinding inner mechanics, retaddr/frame spoofing, and more
 * [Chetan Nayak](https://x.com/NinjaParanoid): previous public work on implementing ThreadPool Worker Callback as a tailcall
-
+* [trickster](https://x.com/trickster012): for giving me a reason and a motivation to rework on this
